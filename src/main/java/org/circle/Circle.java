@@ -6,9 +6,8 @@ public class Circle {
     public Circle() {
     }
 
-    public double calculatorCircle(double radius) {
+    public void calculatorCircle(double radius) {
         resCircle = (3.14 * radius * radius);
-        return resCircle;
     }
 
     public void resultCircle() {
