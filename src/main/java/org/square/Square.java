@@ -2,8 +2,7 @@ package org.square;
 
 public class Square {
     public double res;
-    public Square() {
-    }
+    public Square() {}
     public void calculatorSquare(double sideSquare) {
         res = (sideSquare * sideSquare);
     }

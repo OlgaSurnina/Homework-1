@@ -1,8 +1,6 @@
 package org.square;
 
 import java.util.Scanner;
-
-
 public class App {
     public static void main(String[] args) {
         Square area = new Square();
