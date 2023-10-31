@@ -6,6 +6,7 @@ public class App {
     public static void main(String[] args) {
         Triangle result = new Triangle();
         Scanner in = new Scanner(System.in);
+
         System.out.println("Введите длину 1ой стороны треугольника: ");
         double sideTriangle1 = in.nextDouble();
         System.out.println("Введите длину 2ой стороны треугольника: ");
